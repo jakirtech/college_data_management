@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Akash ",
+            "age": 22,
+            "email": "akash@gmail.com",
+            "roll_no": "1",
+            "grades": {}
+        },
+        {
+            "name": "Devashis Das",
+            "age": 20,
+            "email": "devashis@gmail.com",
+            "roll_no": "2",
+            "grades": {}
+        }
+    ],
+    "teachers": []
+}
